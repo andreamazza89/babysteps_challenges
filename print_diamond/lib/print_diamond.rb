@@ -1,0 +1,2 @@
+class PrintDiamond
+end
